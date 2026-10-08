@@ -28,6 +28,18 @@
       "created_at": "2026-10-08T17:46:13.415Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "ccfd2eda-f8b4-4ee2-834a-14fb8334b913",
+      "role": "user",
+      "content": "My antigravitys token %",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-08T19:38:24.157Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
